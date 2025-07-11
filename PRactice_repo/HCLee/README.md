@@ -8,9 +8,9 @@
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
     - images  
-<img src="./CLI_HCLEE_1.png" width="80%" alt="Cli Img_1">
-<img src="https://github.com/hopedom/DS5/blob/master/PRactice_repo/HCLee/CLI_HCLEE_2.png?raw=true" width="80%" alt="Cli Img_2">
-<img src="https://github.com/hopedom/DS5/blob/master/PRactice_repo/HCLee/CLI_HCLEE_3.png?raw=true" width="80%" alt="Cli Img_3">
+    <img src="./CLI_HCLEE_1.png" width="80%" alt="Cli Img_1">
+    <img src="./CLI_HCLEE_2.png" width="80%" alt="Cli Img_2">
+    <img src="./CLI_HCLEE_3.png" width="80%" alt="Cli Img_3">
 
         
     
