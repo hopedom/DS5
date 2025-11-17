@@ -33,6 +33,3 @@
 | **상세 학습 노트** | 강의 자료, 개념 정리, 추가 연습 문제 등 비(非) 제출 자료 | 🔗 [학습자료 Colab 링크](https://drive.google.com/drive/folders/1k-NpY75xHlbzGB1QdoX6LJticXtcPVBD?usp=sharing) |
 
 
-### 📧 문의
-
-본 자료에 대한 문의사항이나 의견은 언제든지 환영합니다.
